@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "janeaustenr"]
+	path = janeaustenr
+	url = https://github.com/juliasilge/janeaustenr
+	shallow = true
+[submodule "tidylo"]
+	path = tidylo
+	url = https://github.com/juliasilge/tidylo
+	shallow = true
+[submodule "tidytext"]
+	path = tidytext
+	url = https://github.com/juliasilge/tidytext
+	shallow = true
