@@ -8,13 +8,16 @@
 	url = https://github.com/juliasilge/janeaustenr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tidylo"]
 	path = tidylo
 	url = https://github.com/juliasilge/tidylo
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tidytext"]
 	path = tidytext
 	url = https://github.com/juliasilge/tidytext
 	shallow = true
 	registered = true
+	oncran = true
