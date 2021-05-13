@@ -1,0 +1,14 @@
+[
+  {
+    "package": "janeaustenr",
+    "oncran": true
+  },
+  {
+    "package": "tidylo",
+    "oncran": true
+  },
+  {
+    "package": "tidytext",
+    "oncran": true
+  }
+]
