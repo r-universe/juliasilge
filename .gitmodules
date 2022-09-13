@@ -18,3 +18,8 @@
 	url = https://github.com/juliasilge/tidytext
 	shallow = true
 	registered = true
+[submodule "widyr"]
+	path = widyr
+	url = https://github.com/juliasilge/widyr
+	shallow = true
+	registered = true

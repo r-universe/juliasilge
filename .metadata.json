@@ -10,5 +10,9 @@
   {
     "package": "tidytext",
     "oncran": true
+  },
+  {
+    "package": "widyr",
+    "oncran": true
   }
 ]
