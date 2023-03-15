@@ -1,10 +1,6 @@
 [
   {
-    "package": "janeaustenr",
-    "oncran": true
-  },
-  {
-    "package": "tidylo",
+    "package": "widyr",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "widyr",
+    "package": "tidylo",
+    "oncran": true
+  },
+  {
+    "package": "janeaustenr",
     "oncran": true
   }
 ]
