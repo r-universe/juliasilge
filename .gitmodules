@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "widyr"]
-	path = widyr
-	url = https://github.com/juliasilge/widyr
-	shallow = true
-	registered = true
-[submodule "tidytext"]
-	path = tidytext
-	url = https://github.com/juliasilge/tidytext
+[submodule "janeaustenr"]
+	path = janeaustenr
+	url = https://github.com/juliasilge/janeaustenr
 	shallow = true
 	registered = true
 [submodule "tidylo"]
@@ -18,8 +13,13 @@
 	url = https://github.com/juliasilge/tidylo
 	shallow = true
 	registered = true
-[submodule "janeaustenr"]
-	path = janeaustenr
-	url = https://github.com/juliasilge/janeaustenr
+[submodule "tidytext"]
+	path = tidytext
+	url = https://github.com/juliasilge/tidytext
+	shallow = true
+	registered = true
+[submodule "widyr"]
+	path = widyr
+	url = https://github.com/juliasilge/widyr
 	shallow = true
 	registered = true
