@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "janeaustenr"]
 	path = janeaustenr
 	url = https://github.com/juliasilge/janeaustenr
-	shallow = true
-	registered = true
 [submodule "tidylo"]
 	path = tidylo
 	url = https://github.com/juliasilge/tidylo
-	shallow = true
-	registered = true
 [submodule "tidytext"]
 	path = tidytext
 	url = https://github.com/juliasilge/tidytext
-	shallow = true
-	registered = true
 [submodule "widyr"]
 	path = widyr
 	url = https://github.com/juliasilge/widyr
-	shallow = true
-	registered = true
